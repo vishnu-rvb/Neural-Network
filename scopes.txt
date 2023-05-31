@@ -1,0 +1,12 @@
+1.vision system for dimension measurement
+ 1.1 pitch measurement
+ 1.2 beam profile tracing & weld torch movement control
+2.part attribute detection/classification
+ 2.1 weld defect detection
+3.drawing cognition
+ 3.1 MF schedule requirement generator
+ 3.2 drawing error detection
+ 3.3 drawing ballooning
+ 3.4 drawing inspection report generator
+ 3.5 drawing sign validator
+ 
