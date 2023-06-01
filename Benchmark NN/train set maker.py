@@ -18,8 +18,8 @@ h1,h2,dh=50,100,10
 nxc,nyc,nr=(xc2-xc1)/dx,(yc2-yc1)/dy,(r2-r1)/dr
 nw,nh=(w2-w1)/dw,(h2-h1)/dh
 imax=nxc*nyc*(nr+nw*nh)
-print(f'count={int(imax)} size={imax*200*200*1*4/(1024**3):.2f} GB')
-quit()
+#print(f'count={int(imax)} size={imax*200*200*1*4/(1024**3):.2f} GB')
+#quit()
 
 print('making train set')
 i,x_train,y_train=0,[],[]
